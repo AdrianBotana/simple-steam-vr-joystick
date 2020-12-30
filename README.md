@@ -1,7 +1,7 @@
 # Simple SteamVR Joystick
-Just a death simple Steam VR joystick with the demo scene. It uses Steam VR Interaction Sytem to handle interactivity.
+Just a death simple Steam VR joystick with the demo scene.
 
-![Gif](/Steam VR Joystick.gif)
+![Gif](https://github.com/UnTalPaco/simple-steam-vr-joystick/blob/main/Steam%20VR%20Joystick.gif)
 
 ## Dependencies
 
